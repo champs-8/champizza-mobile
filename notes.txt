@@ -1,0 +1,1 @@
+para navegação do mobile, vai usar  a biblioteca react navigation
