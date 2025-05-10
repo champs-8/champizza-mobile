@@ -1,1 +1,2 @@
 para navegação do mobile, vai usar  a biblioteca react navigation
+localhost:19006## 
