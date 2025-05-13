@@ -4,7 +4,7 @@ import {Text, SafeAreaView, TouchableOpacity, TextInput , StyleSheet} from "reac
 import { useNavigation } from "@react-navigation/native";
 import {NativeStackNavigationProp} from '@react-navigation/native-stack'
 import {StackParamsList} from '../../routes/app.routes'
-import { api } from "../../services/api";
+import  api  from "../../services/api";
 
 export default function Dashboard() {
 

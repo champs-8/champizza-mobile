@@ -7,3 +7,5 @@ const api = axios.create({
     // baseURL: 'http://localhost:8080'
     baseURL: 'https://champizza-api.onrender.com'
 });
+
+export default api;

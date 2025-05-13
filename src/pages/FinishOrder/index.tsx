@@ -2,7 +2,7 @@ import React from 'react';
 import {View, Text, StyleSheet, TouchableOpacity, ToastAndroid} from 'react-native'
 import { Feather} from '@expo/vector-icons'
 import { useRoute, useNavigation, RouteProp } from '@react-navigation/native';
-import { api } from '../../services/api';
+import  api  from '../../services/api';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { StackParamsList } from '../../routes/app.routes';
 
