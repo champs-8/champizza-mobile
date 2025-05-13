@@ -2,7 +2,7 @@ import React from 'react';
 import {View, Text, StyleSheet, TouchableOpacity} from 'react-native'
 import { ProdAddProps } from '../../pages/Order';
 import { Feather } from '@expo/vector-icons'
-import { api } from '../../services/api';
+import  api  from '../../services/api';
 
 
 interface ItemProps {

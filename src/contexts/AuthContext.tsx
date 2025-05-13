@@ -1,5 +1,5 @@
 import React, {ReactNode, createContext, useState, useEffect} from "react";//o use effect é o ciclo de vida
-import { api } from "../services/api";
+import  api  from "../services/api";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 

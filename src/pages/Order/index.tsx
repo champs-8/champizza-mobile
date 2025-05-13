@@ -4,7 +4,7 @@ import {useRoute, RouteProp, useNavigation} from '@react-navigation/native'
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { StackParamsList } from '../../routes/app.routes';
 import {Feather} from '@expo/vector-icons'
-import { api } from '../../services/api';
+import  api  from '../../services/api';
 import { ModalPicker } from '../../components/ModalPicker';
 import { ListProducts } from '../../components/ListProducts';
 
